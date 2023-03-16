@@ -1,0 +1,53 @@
+body{
+    font-family: Arial;
+    margin: 50px;
+}
+
+h1 {
+    text-align: center;
+    display: block;
+    margin-top: 20px;
+    padding: 30px;
+}
+
+h2{
+    color: #FFF;
+    margin: 0px;
+}
+
+.caixa {
+    background: #111;
+    padding: 30px;
+    text-align: left;
+    width: 90%;
+    border-radius: 5px;
+    margin: 20px;
+     
+    
+    
+    
+}
+
+strong, span {
+    color: #febe01 ;
+}
+
+a{
+    display: inline-block;
+    text-decoration: none;
+    background: #febe01;
+    color: #332200;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+p {
+    color: #b2b2b2;
+}
+
+
+
+
+
+/* Amarelo 1 #febe01
+amarelo 2 #332200 */
